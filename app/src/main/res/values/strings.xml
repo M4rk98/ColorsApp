@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ColorsApp</string>
+
+    <string name="app_event_win">Nyertél</string>
+    <string name="app_event_default">Nem nyertél</string>
+
+    <string name="app_item_button_reset">Új játék</string>
+</resources>
